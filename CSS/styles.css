@@ -119,11 +119,6 @@ button:focus {
   align-items: center;
 }
 
-/* .please_contact {
-  justify-content: center;
-  text-align: center;
-} */
-
 .page_header_item {
   margin-right: 20px;
   letter-spacing: 0.5px;
@@ -361,7 +356,7 @@ button:focus {
 /* media query for smaller screen size 600px or less */
 @media all and (max-width: 610px) {
   h1 {
-    font-size: 1.25em;
+    font-size: 1.1em;
   }
   h2 {
     font-size: 1em;
