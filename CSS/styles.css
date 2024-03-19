@@ -359,7 +359,7 @@ button:focus {
   }
 }
 /* media query for smaller screen size 600px or less */
-@media all and (max-width: 600px) {
+@media all and (max-width: 610px) {
   h1 {
     font-size: 1.25em;
   }
