@@ -38,7 +38,7 @@
 
         <!-- contact form -->
         <h2>Contact Us</h2>
-        <h3>
+        <h3 class="please_contact">
           Please fill out our contact form. <br />
           Someone will be in touch with you soon. <br />
           We look forward to speaking with you! <br />
@@ -46,12 +46,12 @@
         <div class="contact_form">
           <form action="" method="post" id="contact-form1">
             <label for="contact_firstName">First Name</label>
-            <input type="text" id="contact_firstName" placeholder="first name" required />
+            <input type="text" id="contact_firstName" placeholder="first name" required /><br />
 
             <label for="contact_lastName">Last Name</label>
             <input type="text" id="contact_lastName" placeholder="last name" required />
             <br />
-            <label for="contact_tel">Telephone: <em>format</em> ###-###-####</label>
+            <label for="contact_tel">Telephone:</label>
             <input type="tel" id="contact_tel" pattern="\d{3}[\-]\d{3}[\-]\d{4}" placeholder="telephone number" required />
             <br />
             <label for="contact_email">Email:</label>
