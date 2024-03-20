@@ -98,6 +98,10 @@ button {
   font-size: 1rem;
 }
 
+.send_message_btn {
+  font-size: 14px;
+}
+
 .button {
   background-color: #0d3832;
   color: #faf5de;
@@ -499,7 +503,7 @@ button:focus {
   }
 
   label {
-    font-size: 13px;
+    font-size: 12px;
   }
 
   .contact_form input::placeholder,
