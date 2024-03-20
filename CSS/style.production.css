@@ -307,7 +307,7 @@ button:focus {
   background-color: lightgoldenrodyellow;
   border-radius: 5px;
   font-size: 14px;
-  background-color: lightskyblue;
+  /* background-color: lightskyblue; */
 }
 
 .send_message_btn:hover {
