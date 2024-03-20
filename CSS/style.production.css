@@ -98,10 +98,6 @@ button {
   font-size: 1rem;
 }
 
-.send_message_btn {
-  font-size: 14px;
-}
-
 .button {
   background-color: #0d3832;
   color: #faf5de;
@@ -310,6 +306,8 @@ button:focus {
 .send_message_btn {
   background-color: lightgoldenrodyellow;
   border-radius: 5px;
+  font-size: 14px;
+  background-color: lightskyblue;
 }
 
 .send_message_btn:hover {
