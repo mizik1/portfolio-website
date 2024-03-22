@@ -138,6 +138,7 @@ button:focus {
   padding: 10px;
   border-radius: 10px;
   border: solid 2px grey;
+  text-decoration: none;
 }
 
 .page_header {
