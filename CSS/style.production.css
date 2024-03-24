@@ -66,7 +66,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: red;
+  color: blue;
 }
 a:active {
   color: #489c79;
